@@ -1,6 +1,6 @@
 ## Getting started
-- [Why did we build Document360?](Gettingstarted/Why%20did%20we%20build%20Document360?.md)
-- [5 basic things to get started](Gettingstarted/5%20basic%20things%20to%20get%20started.md)
+- [Why did we build Document360?](Gettingstarted/Why-did-we-build-Document360?.md)
+- [5 basic things to get started](Gettingstarted/5-basic-things-to-get-started.md)
 
 ## Customize site - Home
 - [Understanding customize site - Home](Customize%20site%20-%20Home/Understanding%20customize%20site%20-%20Home.md)
