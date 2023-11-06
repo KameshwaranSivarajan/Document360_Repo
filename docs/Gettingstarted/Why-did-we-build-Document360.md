@@ -1,4 +1,4 @@
-Hello there,  
+## Hello there,  
 This is Saravana Kumar, Founder of {{glossary.Document360}}. Thank you for taking the time to evaluate **Document360**. 
 I would like to give you a quick background on "**Why did we build Document360?**".  
 
